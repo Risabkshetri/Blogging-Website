@@ -26,11 +26,11 @@ function Home() {
                 {start ? (
                    <div className='bg-white h-96 w-auto flex flex-col items-center justify-center px-5'>
                    <div className='bg-white w-auto flex flex-col items-center gap-5'>
-                   <h1 className='text-2xl text-red-600'>please sighin to read and write posts. 
+                   <h1 className='text-2xl text-red-600'>please signin to read and write posts. 
                    </h1>
                    <img src={emoji} alt="" className='max-w-full h-auto'/>
                    <Button className='bg-red-600 mr-10'>
-                        <Link to = '/signup'>signUp</Link>
+                        <Link to = '/signup'>signup</Link>
                     </Button>
                    </div>
                    </div>
