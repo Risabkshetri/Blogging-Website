@@ -1,4 +1,4 @@
-import logo from '../assets/logo1.png'
+import logo from '../assets/logo.png'
 
 function Logo({width = '100px', height = '50px'}) {
   return (
