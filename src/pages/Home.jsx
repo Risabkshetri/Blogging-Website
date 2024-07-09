@@ -30,7 +30,7 @@ function Home() {
                    </h1>
                    <img src={emoji} alt="" className='max-w-full h-auto'/>
                    <Button className='bg-red-600 mr-10'>
-                        <Link to = '/signup'>signup</Link>
+                        <Link to = '/signup'>Signup</Link>
                     </Button>
                    </div>
                    </div>
